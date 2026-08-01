@@ -23,6 +23,6 @@ const object = {
     },
 };
 
-const object2 = { ...object };
+export const object2 = { ...object };
 
 console.log(object2);

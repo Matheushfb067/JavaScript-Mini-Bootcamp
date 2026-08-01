@@ -1,0 +1,12 @@
+{
+  "name": "import-export",
+  "version": "1.0.0",
+  "description": "This repository contains the files used during a one-class JavaScript mini bootcamp. The goal is to review the core concepts of JavaScript before starting application development with Firebase.",
+  "main": "1-variaveis.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
